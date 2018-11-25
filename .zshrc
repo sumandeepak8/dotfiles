@@ -1,5 +1,5 @@
 # If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/sumanraj/.oh-my-zsh"
@@ -97,3 +97,12 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias v="vim"
+alias jif="/Users/sumanraj/project/javascript_program_file/array_Functions/my_Function"
+alias bd="~/project/bash_assignments"
+alias ad="~/project/awk_assignments"
+alias jp="~/project/javascript_program_file/patterns"
+alias jt="~/project/ticTacToe"
+alias sz="source ~/.zshrc"
+alias sv="source ~/.vimrc"
+alias n="node"
+alias m="mocha"
